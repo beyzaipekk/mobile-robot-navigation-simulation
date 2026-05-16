@@ -70,7 +70,31 @@ Simülasyon sonunda aşağıdaki görseller oluşturulmaktadır:
 | main.py | Ana simülasyon kodu |
 | Mobil_Robot_Rapor.pdf | Proje raporu |
 | Figure_*.png | Simülasyon çıktıları |
+# Simülasyon Çıktıları
 
+## 1. 2B Fabrika Ortam Haritası
+![Ortam Haritası](Figure_ortam_haritasi.png)
+
+## 2. Planlanan ve Gerçek Robot Yolu
+![Robot Yolu](Figure_robot_yolu.png)
+
+## 3. Robot Yön Açısı Değişimi
+![Theta](Figure_theta.png)
+
+## 4. LiDAR Tarama Görselleştirmesi
+![LiDAR Tarama](Figure_lidar_tarama.png)
+
+## 5. Ham ve Filtrelenmiş LiDAR Verisi
+![LiDAR Filtre](Figure_lidar_ham_filtreli.png)
+
+## 6. LiDAR Engel Kümeleme Sonuçları
+![LiDAR Kümeleme](Figure_lidar_kumeleme.png)
+
+## 7. Lokalizasyon Sonuçları
+![Lokalizasyon](Figure_lokalizasyon_2B.png)
+
+## 8. Zaman Boyunca Konum Hatası
+![Hata Analizi](Figure_hata_analizi.png)
 ---
 
 # Lokalizasyon Sonuçları
