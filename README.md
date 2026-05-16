@@ -127,5 +127,6 @@ Simülasyonun tasarımı, test edilmesi, sonuçların yorumlanması ve nihai dü
 
 Beyza İpek  
 21406601020
+
 Bursa Teknik Üniversitesi  
 MKTS0323 - Mobil Robotlar
